@@ -6,6 +6,8 @@ This project features an interactive Power BI dashboard created from an Excel da
 ## Dataset
 The analysis utilizes an Excel file containing key metrics such as R&D spending, administration costs, marketing expenditure, and profit analysis across various states. The dataset reveals how these factors influence overall profitability.
 
+![Image](https://github.com/user-attachments/assets/7ea3eea6-2c12-4d8b-8d63-649fb2908975)
+
 ### Key Metrics:
 - **R&D Spend**: Investment in research and development.
 - **Administration Costs**: Overhead costs associated with running the business.
